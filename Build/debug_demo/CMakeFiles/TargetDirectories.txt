@@ -1,0 +1,3 @@
+D:/Qt Projects/Applied Geometry/Build/debug_demo/CMakeFiles/QmlDemo.dir
+D:/Qt Projects/Applied Geometry/Build/debug_demo/CMakeFiles/edit_cache.dir
+D:/Qt Projects/Applied Geometry/Build/debug_demo/CMakeFiles/rebuild_cache.dir

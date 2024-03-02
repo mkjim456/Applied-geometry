@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+D:/Qt Projects/Applied Geometry/Build/debug_demo/moc_scenario.cpp
+D:/Qt Projects/Applied Geometry/qmldemo/scenario.h

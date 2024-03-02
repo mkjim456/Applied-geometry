@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+D:/Qt Projects/Applied Geometry/Build/debug_demo/hidmanager/moc_hidmanagertreemodel.cpp
+D:/Qt Projects/Applied Geometry/qmldemo/hidmanager/hidmanagertreemodel.h

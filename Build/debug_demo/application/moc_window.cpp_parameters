@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+D:/Qt Projects/Applied Geometry/Build/debug_demo/application/moc_window.cpp
+D:/Qt Projects/Applied Geometry/qmldemo/application/window.h
